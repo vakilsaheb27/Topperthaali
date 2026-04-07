@@ -1,0 +1,5 @@
+{
+  "name": "MessAdmin",
+  "description": "Student mess management system with QR attendance and subscriptions.",
+  "requestFramePermissions": ["camera"]
+}
